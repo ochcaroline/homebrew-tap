@@ -1,9 +1,9 @@
 class Slidey < Formula
   desc "Slides in the terminal. And nothing else"
   homepage "https://github.com/ochcaroline/slidey"
-  url "https://github.com/ochcaroline/slidey.git", tag: "v1.0.1"
+  url "https://github.com/ochcaroline/slidey.git", tag: "v1.0.2"
   
-  version "1.0.1"
+  version "1.0.2"
 
   license "YOLO"
 
