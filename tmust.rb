@@ -1,9 +1,9 @@
 class Tmust < Formula
   desc "A minimal tmux session manager that integrates with zoxide."
   homepage "https://github.com/ochcaroline/tmust"
-  url "https://github.com/ochcaroline/tmust.git", tag: "v0.4.1"
+  url "https://github.com/ochcaroline/tmust.git", tag: "v0.4.2"
   
-  version "0.4.1"
+  version "0.4.2"
 
   license "YOLO"
 
