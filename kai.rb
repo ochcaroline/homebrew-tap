@@ -1,9 +1,9 @@
 class Kai < Formula
   desc "kAI - agent-ready local kanban board (web UI + JSON API)"
   homepage "https://github.com/ochcaroline/kAI"
-  url "https://github.com/ochcaroline/kAI.git", tag: "v0.1.0"
+  url "https://github.com/ochcaroline/kAI.git", tag: "v0.1.1"
 
-  version "0.1.0"
+  version "0.1.1"
 
   license "YOLO"
 
